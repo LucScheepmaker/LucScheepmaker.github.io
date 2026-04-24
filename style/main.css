@@ -1,0 +1,101 @@
+BODY {
+	COLOR: #000000;
+	FONT-FAMILY: Arial;
+	FONT-SIZE: 11pt;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+	PADDING-LEFT: 10px;
+	PADDING-RIGHT: 7px;
+	BACKGROUND-COLOR: #C0C0C0;
+}
+
+P {
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial;
+	FONT-SIZE: 11pt;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+}
+
+TABLE {
+	FONT-SIZE: 10pt;
+	rem MARGIN-TOP: 10px;
+	rem BORDER: 1px #666666 solid;
+}
+THEAD {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11pt;
+}
+TD {
+	rem BORDER: 1px #666666 solid;
+	rem BACKGROUND-COLOR: #FFFFCC;
+	PADDING-LEFT: 7px;
+	PADDING-RIGHT: 4px;
+	rem VERTICAL-ALIGN: text-top;
+}
+
+
+H1 {
+	COLOR: #000000;
+	FONT-FAMILY: Comic Sans MS;
+	FONT-SIZE: 20pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	rem TEXT-ALIGN: center;
+}
+H2 {
+	COLOR: #000000;
+	FONT-FAMILY: Comic Sans MS;
+	FONT-SIZE: 16pt;
+	FONT-STYLE: italic;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	rem TEXT-ALIGN: center;
+}
+H3 {
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial;
+	FONT-SIZE: 12pt;
+	FONT-WEIGHT: bold;
+	LETTER-SPACING: 4px;
+	LINE-HEIGHT: 0;
+	TEXT-DECORATION: none;
+}
+H4 {
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial;
+	FONT-SIZE: 8pt;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none;
+}
+IMG {
+	MARGIN-TOP: 2px;
+}
+UL {
+	MARGIN-TOP: 4px;
+	MARGIN-BOTTOM: 4px;
+	MARGIN-LEFT: 10px;
+}
+LI {
+	LIST-STYLE-IMAGE: url(../image/gemred.gif);
+	MARGIN-TOP: 10px;
+	MARGIN-LEFT: 10px;
+	FONT-SIZE: 14pt;
+}
+.clslink {
+	color: #6D8BCA;
+	text-decoration: none;
+	margin-left: 12px;
+}
+.clslink:hover {
+	color: #cc0000;
+	text-decoration: none;
+}
+.blockcell {
+	rem BACKGROUND-COLOR: #FFFFCC;
+	BORDER-BOTTOM: #8B8B83 1px solid;
+	BORDER-LEFT: #000000 1px solid;
+	BORDER-RIGHT: #8B8B83 1px solid;
+	BORDER-TOP: #000000 1px solid
+}
