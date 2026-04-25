@@ -17,6 +17,7 @@ h2 {
 	font-size: 20px;
 	font-weight: 600;
 	line-height: 1.5;
+	text-indent: 15px;
 	border: #cfcfcf 1px outset;
 }
 li {
@@ -25,18 +26,31 @@ li {
 	font-size: 20px;
 	font-weight: normal;
 	line-height: 1.4;
+	list-style-type: none;
 }
 a {
 	color: #37474F;
 	text-decoration: none;
-	margin-left: 10px;
 }
 a:hover {
 	color: #cc0000;
 	text-decoration: none;
 }
+a:visited {
+	color: #37474F;
+	text-decoration: none;
+}
 .clsKolom {
 	float: left;
-	min-width: 400px;
-	padding: 5px;
+	min-width: 370px;
+	min-height: 600px;
+	margin-right: 10px;
+	border: 1px solid #808080;
+}
+.clsKolomV {
+	float: left;
+	min-width: 370px;
+	min-height: 300px;
+	margin-right: 10px;
+	border: 1px solid #808080;
 }
